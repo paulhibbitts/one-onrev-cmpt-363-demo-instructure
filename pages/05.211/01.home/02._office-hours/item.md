@@ -1,0 +1,32 @@
+---
+title: 'Regular Office Hours'
+published: true
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
+---
+
+## Online Office (Student) Hours 🏫
+
+[columns]
+
+[showifembedded]
+Chat 1-on-1 Office Hours:  
+[Contact Paul](https://canvas.sfu.ca/courses/61465/external_tools/22674) here in Canvas or [CSSS Discord](https://t.co/GZQUc6iVjS)   
+Mondays 12:00-12:30pm PT  
+Thursdays 12:00-12:30pm PT  
+[/showifembedded]
+[hideifembedded]
+Chat 1-on-1 Office Hours:  
+Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS)  
+Mondays 12:00-12:30pm PT  
+Thursdays 12:00-12:30pm PT  
+[/hideifembedded]
+
+
+[div class="keeptogether"]
+Zoom 1-on-1 Office Hours:  
+[Thursdays 12:30-1:30pm PT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/)  
+[/div]
+
+[/columns]
